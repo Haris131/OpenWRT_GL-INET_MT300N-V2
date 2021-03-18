@@ -24,4 +24,5 @@
  * Via Putty / MobaXterm :
    * cd /tmp && mtd -e firmware -r write factory.bin firmware
  * WiFi langsung on setelah di Flash, kalo belum hidup tunggu +- 3 menitan
- * Free Space : Luci - System - Software = 48% ( 6.0 MB )
+ * Free Space :
+  * Luci - System - Software = 48% ( 6.0 MB )
